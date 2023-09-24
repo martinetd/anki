@@ -28,7 +28,7 @@ resolver = "2"
 
 [workspace.dependencies.csv]
 git = "https://github.com/ankitects/rust-csv.git"
-rev = "1c9d3aab6f79a7d815c69f925a46a4590c115f90"
+rev = "74721cd1e0f6d1b4dca4967d606fef0148a94d53"
 
 [workspace.dependencies.percent-encoding-iri]
 git = "https://github.com/ankitects/rust-url.git"
